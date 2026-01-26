@@ -1,0 +1,43 @@
+# -----------------------------
+# Compiled Output & Build Artifacts
+# -----------------------------
+*.hex
+*.elf
+*.bin
+*.map
+*.o
+*.a
+*.obj
+build/
+bin/
+
+# -----------------------------
+# IDE & Editor Files
+# -----------------------------
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Arduino IDE specific
+__vm/
+*.ipch
+
+# -----------------------------
+# OS Generated Files
+# -----------------------------
+# Mac & Windows thumbnail trash
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# -----------------------------
+# Security & Secrets
+# -----------------------------
+# wifi module will be added in future.
+secrets.h
+credentials.h
+wifi_conf.h
