@@ -1,4 +1,4 @@
-# WatchLog Timer - High Precision GPS Tracker & Data Logger
+# WatchLog Biker - High Precision GPS Tracker & Data Logger
 
 > **Status:** Active Development  
 > **Target Platform:** Arduino Uno / Embedded C++  
