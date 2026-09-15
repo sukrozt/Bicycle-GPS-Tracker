@@ -5,7 +5,7 @@
 > **Application:** Offline Performance Tracking for Outdoor Sports
 
 ## Overview
-WatchLog Timer is a standalone, embedded system designed to track, display, and log geospatial data for cycling and hiking without reliance on cellular networks. 
+WatchLog Biker is a standalone, embedded system designed to track, display, and log geospatial data for cycling and hiking without reliance on cellular networks. 
 
 Unlike standard phone apps, this device provides real-time telemetry (Speed, Altitude, Distance) via a dedicated TFT dashboard and logs granular NMEA data to an SD card for scientific analysis or mapping.
 
